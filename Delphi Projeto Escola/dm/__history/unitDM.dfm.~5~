@@ -1,0 +1,23 @@
+object dm: Tdm
+  Height = 479
+  Width = 640
+  object Conexao: TFDConnection
+    Params.Strings = (
+      'Database=escolamodelo'
+      'User_Name=root'
+      'DriverID=MySQL')
+    Connected = True
+    LoginPrompt = False
+    Left = 48
+    Top = 40
+  end
+  object tbResponsaveis: TFDTable
+    Active = True
+    IndexFieldNames = 'id'
+    Connection = Conexao
+    ResourceOptions.AssignedValues = [rvEscapeExpand]
+    TableName = 'escolamodelo.responsaveis'
+    Left = 160
+    Top = 40
+  end
+end

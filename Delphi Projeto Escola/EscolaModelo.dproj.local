@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/03/01 23:25:58.000.228,=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/02 14:51:39.000.307,=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/03/02 14:53:20.000.039,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\principal\unitPrincipal.pas</Transaction>
+    <Transaction>2024/03/02 14:53:20.000.039,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\principal\unitPrincipal.dfm</Transaction>
+    <Transaction>2024/03/02 14:53:26.000.054,C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\EscolaModelo.dproj</Transaction>
+    <Transaction>2024/03/02 14:53:57.000.785,=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\Unit1.pas</Transaction>
+    <Transaction>2024/03/02 14:55:15.000.428,C:\Users\Guilherme\Desktop\Delphi Projeto Escola\Unit1.dfm=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\responsaveis\unitCadResponsaveis.dfm</Transaction>
+    <Transaction>2024/03/02 14:55:15.000.428,C:\Users\Guilherme\Desktop\Delphi Projeto Escola\Unit1.pas=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\responsaveis\unitCadResponsaveis.pas</Transaction>
+    <Transaction>2024/03/02 15:00:03.000.852,=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\Unit1.pas</Transaction>
+    <Transaction>2024/03/02 15:00:50.000.927,C:\Users\Guilherme\Desktop\Delphi Projeto Escola\Unit1.dfm=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\dm\unitDM.dfm</Transaction>
+    <Transaction>2024/03/02 15:00:50.000.927,C:\Users\Guilherme\Desktop\Delphi Projeto Escola\Unit1.pas=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\dm\unitDM.pas</Transaction>
+    <Transaction>2024/03/02 17:03:53.000.569,=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\Unit1.pas</Transaction>
+    <Transaction>2024/03/02 17:04:57.000.205,C:\Users\Guilherme\Desktop\Delphi Projeto Escola\Unit1.pas=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\alunos\unAlunos.pas</Transaction>
+    <Transaction>2024/03/02 17:04:57.000.205,C:\Users\Guilherme\Desktop\Delphi Projeto Escola\Unit1.dfm=C:\Users\Guilherme\Desktop\Delphi Projeto Escola\alunos\unAlunos.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
